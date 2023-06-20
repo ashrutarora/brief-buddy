@@ -56,6 +56,8 @@ git clone https://github.com/ashrut1011/Brief-buddy.git
 
 Ashrut Arora, aka me, developed Brief Buddy :) a machine learning enthusiast.
 
+`Feel free to Star ⭐ this Repository :) and Support me`. 
+
 For any inquiries or feedback, please contact me at ashrutarora@gmail.com.
 
 Start using Brief Buddy today and unlock the power of news article summarization!
