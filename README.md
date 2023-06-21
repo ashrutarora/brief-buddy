@@ -30,7 +30,7 @@ pip install transformers beautifulsoup4 requests
 ```
 2. Download or clone the Brief Buddy repository from GitHub:
 ```
-git clone https://github.com/ashrut1011/Brief-buddy.git
+git clone https://github.com/ashrut1011/brief-buddy.git
 ```
 3. Open the Jupyter Notebook file in your preferred development environment.
    
